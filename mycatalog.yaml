@@ -7,6 +7,6 @@ entries:
     long_description: >-
       Sample AMP
     image_path: >-
-      https://github.com/jmontenaro/myamp/images/amp.jpg
+      https://github.com/jmontenaro/myamp/images/myamp.jpg
     git_url: "https://github.com/jmontenaro/myamp"
     is_prototype: true
