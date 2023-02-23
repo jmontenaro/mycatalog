@@ -1,12 +1,12 @@
 name: MyCatalog
 
 entries:
-  - title: MyCatalog
-    label: sample-catalog
-    short_description: Sample Catalog
+  - title: MyAMP
+    label: sample-amp
+    short_description: Sample AMP
     long_description: >-
-      Sample Catalog
+      Sample AMP
     image_path: >-
-      https://github.com/jmontenaro/mycatalog/blob/e1447ba51377565a91649d027e7742c6a2fc1f81/images/mycatalog.jpg
-    git_url: "https://github.com/jmontenaro/mycatalog"
+      https://github.com/jmontenaro/myamp/images/amp.jpg
+    git_url: "https://github.com/jmontenaro/myamp"
     is_prototype: true
